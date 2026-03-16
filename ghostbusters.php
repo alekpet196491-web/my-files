@@ -16,4 +16,5 @@ echo $base."s01e".$ep."_480.mp4\n";
 
 }
 
-?>
+$config=json_decode(file_get_contents("ghostbusters.json"),true);
+$base=$config["cdn"];
