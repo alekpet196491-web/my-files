@@ -2,7 +2,7 @@
 
 header("Content-Type: audio/x-mpegurl");
 
-$base="https://nl202.cdnsqu.com/s/FHVf4SlOXBHLsqYYSB6tqkR0FBQUFBQUFBQUFBUmxCTXdRZm9BdFlEd0RFTT0.luAqxZzFcvik69thMaDDJos5TjwDQ2FYcj9QDA/the.real.ghostbusters-1986/";
+$base="https://nl202.cdnsqu.com/s/FHvFTGczR9m3OKEBukJvq2uUFBQUFBQUFBQUFBUmxDWGtRZm9BdFlEd0RFTT0.E5ofU_om0f0J6vYgNaCrj0h_RjBqB2hMr69HsQ/the.real.ghostbusters-1986/";
 
 echo "#EXTM3U\n";
 
